@@ -1,0 +1,67 @@
+[
+  {
+    "id": "edu-1",
+    "title": "Introduction to Indonesian Contract Law",
+    "description": "Learn the fundamental principles of contract law in Indonesia",
+    "content": "Contract law in Indonesia is primarily governed by the Indonesian Civil Code (Kitab Undang-Undang Hukum Perdata / KUHPerdata). A valid contract requires consent, an object that can be the subject matter of the agreement, and a cause of the obligation. Indonesian contract law follows the principle of freedom of contract, allowing parties to agree on terms as long as they don't violate laws, public order, or morality.",
+    "video_url": "https://example.com/videos/contract-law-intro.mp4",
+    "thumbnail_url": "/assets/images/contract-law-thumb.jpg",
+    "category": "contracts",
+    "difficulty_level": "beginner",
+    "duration": 30,
+    "created_at": "2023-01-15T08:00:00Z",
+    "updated_at": "2023-01-15T08:00:00Z"
+  },
+  {
+    "id": "edu-2",
+    "title": "Property Law Essentials",
+    "description": "Understanding property rights and regulations in Indonesia",
+    "content": "Property law in Indonesia is complex due to different land rights. Hak Milik (Right of Ownership) is the strongest right, granted only to Indonesian citizens. Hak Guna Bangunan (Right to Build) allows building on state land for 30 years (renewable). Hak Guna Usaha (Right to Cultivate) is for agricultural land. Foreigners can access property through Right of Use (Hak Pakai) or lease arrangements.",
+    "video_url": "https://example.com/videos/property-law-essentials.mp4",
+    "thumbnail_url": "/assets/images/property-law-thumb.jpg",
+    "category": "property",
+    "difficulty_level": "intermediate",
+    "duration": 45,
+    "created_at": "2023-02-20T10:00:00Z",
+    "updated_at": "2023-02-20T10:00:00Z"
+  },
+  {
+    "id": "edu-3",
+    "title": "Employment Law in Indonesia",
+    "description": "Key concepts in Indonesian employment law",
+    "content": "Indonesian employment law is governed by Law No. 13/2003 on Labor. Key provisions include: maximum 40 hours per week, 12 official holidays, 12 days annual leave, 2 days sick leave (with medical certificate), and 3 days personal leave. Termination requires justification and severance pay. Collective bargaining agreements can enhance worker rights beyond statutory minimums.",
+    "video_url": "https://example.com/videos/employment-law.mp4",
+    "thumbnail_url": "/assets/images/employment-law-thumb.jpg",
+    "category": "employment",
+    "difficulty_level": "intermediate",
+    "duration": 50,
+    "created_at": "2023-03-10T12:00:00Z",
+    "updated_at": "2023-03-10T12:00:00Z"
+  },
+  {
+    "id": "edu-4",
+    "title": "Corporate Law Overview",
+    "description": "Key concepts in Indonesian corporate law",
+    "content": "Indonesian corporate law recognizes several business entities: PT (Limited Liability Company) requires minimum 2 shareholders and IDR 50 million authorized capital. CV (Limited Partnership) has unlimited liability partners. Firma (General Partnership) has all partners with unlimited liability. Representative offices (KPPA) can't conduct commercial activities. The Omnibus Law on Job Creation has simplified some procedures for business establishment.",
+    "video_url": "https://example.com/videos/corporate-law.mp4",
+    "thumbnail_url": "/assets/images/corporate-law-thumb.jpg",
+    "category": "corporate",
+    "difficulty_level": "intermediate",
+    "duration": 55,
+    "created_at": "2023-04-05T09:00:00Z",
+    "updated_at": "2023-04-05T09:00:00Z"
+  },
+  {
+    "id": "edu-5",
+    "title": "Family Law in Indonesia",
+    "description": "Legal aspects of marriage, divorce, and family relations",
+    "content": "Indonesian family law is complex due to religious diversity. Muslims follow Islamic law through Law No. 1/1974 on Marriage. Non-Muslims follow Civil Code provisions. Key points: minimum age 16 for women, 19 for men (with court approval); polygamy allowed for Muslims with court permission; divorce requires court proceeding; inheritance follows different rules based on religion. The Religious Court handles Muslim family matters.",
+    "video_url": "https://example.com/videos/family-law.mp4",
+    "thumbnail_url": "/assets/images/family-law-thumb.jpg",
+    "category": "family",
+    "difficulty_level": "beginner",
+    "duration": 40,
+    "created_at": "2023-05-12T14:00:00Z",
+    "updated_at": "2023-05-12T14:00:00Z"
+  }
+]

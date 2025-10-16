@@ -1,0 +1,229 @@
+# Sample Legal Documents
+
+## Contract Agreement Template
+
+**AGREEMENT FOR SERVICES**
+
+This Agreement is made this _____ day of _______, 20__, between:
+
+**Party A:** [Client Name]  
+Address: [Client Address]  
+(hereinafter referred to as "Client")
+
+**Party B:** [Service Provider Name]  
+Address: [Service Provider Address]  
+(hereinafter referred to as "Service Provider")
+
+### Article 1 - Services
+The Service Provider agrees to provide the following services to the Client:
+1. [Detailed description of services]
+2. [Additional services if any]
+3. [Deliverables and timelines]
+
+### Article 2 - Term
+This Agreement shall commence on [Start Date] and continue until [End Date], unless terminated earlier in accordance with the provisions hereof.
+
+### Article 3 - Compensation
+In consideration for the services rendered by the Service Provider, the Client agrees to pay:
+- Total Fee: [Amount in IDR]
+- Payment Schedule: [Payment terms]
+- Additional Costs: [If any]
+
+### Article 4 - Obligations
+Both parties agree to:
+1. Perform their duties in accordance with Indonesian law
+2. Maintain confidentiality of proprietary information
+3. Comply with all applicable regulations
+
+### Article 5 - Termination
+This Agreement may be terminated by either party upon [number] days written notice to the other party.
+
+### Article 6 - Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of Indonesia.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+**Client:** _________________________ **Service Provider:** _________________________
+
+---
+
+## Lease Agreement Sample
+
+**RESIDENTIAL LEASE AGREEMENT**
+
+This Residential Lease Agreement ("Agreement") is made between:
+
+**Landlord:** [Landlord Name]  
+Address: [Landlord Address]
+
+**Tenant:** [Tenant Name]  
+Address: [Tenant Address]
+
+### Property Details
+The Landlord agrees to lease to the Tenant the real property located at:
+[Property Address], including all fixtures and improvements thereon (the "Premises").
+
+### Lease Term
+This lease shall begin on [Start Date] and end on [End Date], unless terminated earlier or renewed in accordance with this Agreement.
+
+### Rent
+- Monthly Rent: IDR [Amount]
+- Security Deposit: IDR [Amount]
+- Rent is due on the _____ day of each month
+- Late fee: [Amount or percentage] if rent is more than [number] days late
+
+### Terms and Conditions
+1. The Tenant shall use the Premises as a residential dwelling only
+2. No smoking inside the premises
+3. No pets without prior written consent
+4. Tenant shall maintain the property in good condition
+5. Tenant is responsible for utilities and minor maintenance
+
+### Termination
+Either party may terminate this Agreement by providing [number] days written notice.
+
+### Governing Law
+This Agreement shall be governed by the laws of Indonesia, specifically the regulations concerning residential tenancy in [Location].
+
+**Landlord Signature:** _________________________ **Date:** ___________
+
+**Tenant Signature:** _________________________ **Date:** ___________
+
+---
+
+## Power of Attorney
+
+**POWER OF ATTORNEY**
+
+KNOW ALL MEN BY THESE PRESENTS:
+
+I, [Principal Name], an individual of sound mind, do hereby make, constitute, and appoint [Agent Name], my true and lawful attorney-in-fact to act on my behalf and in my name for the following purposes:
+
+### Powers Granted
+The attorney-in-fact is authorized to:
+1. Execute and deliver contracts and agreements on my behalf
+2. Receive and acknowledge legal documents
+3. Represent me in legal proceedings
+4. Handle banking and financial transactions
+5. [Any other specific powers]
+
+### Limitations
+This Power of Attorney shall NOT include:
+1. The right to make gifts or donations
+2. The right to change beneficiaries
+3. [Any other specific limitations]
+
+### Duration
+This Power of Attorney shall remain in effect from [Start Date] until [End Date] or until revoked by me in writing.
+
+### Governing Law
+This Power of Attorney is executed under the laws of Indonesia.
+
+**Principal Signature:** _________________________ **Date:** ___________  
+**Principal Name:** [Printed Name]
+
+**Notarization:**  
+State of Indonesia  
+County of [Location]
+
+On this _____ day of _______, 20__, before me personally appeared [Principal Name], who proved to me on the basis of satisfactory evidence to be the person whose name is subscribed to the within instrument.
+
+Notary Public: _________________________  
+[Notary Seal]
+
+---
+
+## Employment Contract
+
+**EMPLOYMENT AGREEMENT**
+
+This Employment Agreement ("Agreement") is entered into between:
+
+**Company:** [Company Name]  
+Address: [Company Address]  
+(employer)
+
+**Employee:** [Employee Name]  
+Address: [Employee Address]  
+(position: [Job Title])
+
+### Position and Duties
+The Employee agrees to serve in the capacity of [Job Title] and will perform duties as assigned by management, including but not limited to [list relevant duties].
+
+### Compensation
+- Base Salary: IDR [Amount] per month
+- Annual Bonus: As determined by company policy
+- Benefits: Health insurance, paid time off, other benefits per company policy
+
+### Working Hours
+Standard working hours are [hours] per week, with [days] of work per week. Additional hours may be required as business needs dictate.
+
+### Probationary Period
+The Employee will serve a probationary period of [time period] from the start date, during which either party may terminate employment with [time period] notice.
+
+### Confidentiality
+Employee agrees to maintain strict confidentiality of all proprietary information, trade secrets, and business practices of the Company.
+
+### Non-Compete
+For a period of [time period] after termination, Employee agrees not to compete with the Company in [geographic area/industry].
+
+### Termination
+This Agreement may be terminated by either party with [time period] written notice, or immediately for cause including but not limited to serious misconduct, breach of confidentiality, or failure to perform job duties.
+
+### Governing Law
+This Agreement shall be governed by Indonesian labor laws and regulations.
+
+**Company Representative:** _________________________ **Date:** ___________
+
+**Employee:** _________________________ **Date:** ___________
+
+---
+
+## Non-Disclosure Agreement
+
+**NON-DISCLOSURE AGREEMENT**
+
+This Non-Disclosure Agreement ("Agreement") is entered into on [Date] between:
+
+**Disclosing Party:** [Company/Individual Name]  
+Address: [Address]
+
+**Receiving Party:** [Company/Individual Name]  
+Address: [Address]
+
+### Purpose
+The parties wish to preserve the confidentiality of proprietary information which may be disclosed during [Business Relationship Description].
+
+### Confidential Information
+"Confidential Information" includes, but is not limited to:
+- Technical data, formulas, and processes
+- Financial information and business plans
+- Customer lists and supplier information
+- Marketing strategies and pricing information
+- Any other information marked as confidential
+
+### Obligations of Receiving Party
+The Receiving Party agrees to:
+1. Hold all Confidential Information in strict confidence
+2. Not disclose Confidential Information to third parties
+3. Use Confidential Information solely for the stated purpose
+4. Return or destroy all Confidential Information upon termination
+
+### Exceptions
+This Agreement does not apply to information that:
+- Is already public knowledge
+- Was known to Receiving Party prior to disclosure
+- Is independently developed by Receiving Party
+- Is required to be disclosed by law
+
+### Duration
+The obligations under this Agreement shall continue for [time period] years after disclosure, or until the information becomes public through no breach of this Agreement.
+
+### Remedies
+The parties acknowledge that any breach of this Agreement may cause irreparable injury, and the Disclosing Party shall be entitled to equitable relief, including injunction and specific performance.
+
+**Disclosing Party:** _________________________ **Date:** ___________
+
+**Receiving Party:** _________________________ **Date:** ___________
+
+---

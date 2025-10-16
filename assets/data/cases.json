@@ -1,0 +1,67 @@
+[
+  {
+    "id": "case-1",
+    "user_id": "user-1",
+    "title": "Property Lease Dispute",
+    "description": "Dispute regarding rental property maintenance responsibilities",
+    "case_type": "property",
+    "status": "in_progress",
+    "priority": "high",
+    "progress": 65,
+    "deadline": "2023-12-15T00:00:00Z",
+    "created_at": "2023-09-10T09:15:00Z",
+    "updated_at": "2023-10-01T14:20:00Z"
+  },
+  {
+    "id": "case-2",
+    "user_id": "user-2",
+    "title": "Contract Review for E-commerce Business",
+    "description": "Review of terms and conditions for online retail business",
+    "case_type": "contracts",
+    "status": "open",
+    "priority": "medium",
+    "progress": 20,
+    "deadline": "2023-11-20T00:00:00Z",
+    "created_at": "2023-09-20T11:30:00Z",
+    "updated_at": "2023-09-25T16:45:00Z"
+  },
+  {
+    "id": "case-3",
+    "user_id": "user-1",
+    "title": "Employment Agreement Dispute",
+    "description": "Dispute over termination clause in employment contract",
+    "case_type": "employment",
+    "status": "completed",
+    "priority": "high",
+    "progress": 100,
+    "deadline": "2023-08-15T00:00:00Z",
+    "created_at": "2023-06-01T13:45:00Z",
+    "updated_at": "2023-08-20T10:30:00Z"
+  },
+  {
+    "id": "case-4",
+    "user_id": "user-6",
+    "title": "Corporate Registration Assistance",
+    "description": "Assistance with PT (limited liability company) registration",
+    "case_type": "corporate",
+    "status": "open",
+    "priority": "medium",
+    "progress": 10,
+    "deadline": "2024-01-30T00:00:00Z",
+    "created_at": "2023-10-05T15:20:00Z",
+    "updated_at": "2023-10-05T15:20:00Z"
+  },
+  {
+    "id": "case-5",
+    "user_id": "user-7",
+    "title": "Family Law - Divorce Proceedings",
+    "description": "Legal proceedings for divorce and asset division",
+    "case_type": "family",
+    "status": "in_progress",
+    "priority": "high",
+    "progress": 40,
+    "deadline": "2024-03-10T00:00:00Z",
+    "created_at": "2023-08-15T08:00:00Z",
+    "updated_at": "2023-09-30T12:15:00Z"
+  }
+]

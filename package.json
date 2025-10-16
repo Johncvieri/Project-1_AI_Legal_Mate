@@ -1,0 +1,26 @@
+{
+  "name": "ai-legal-mate",
+  "version": "1.0.0",
+  "description": "AI Legal Mate - End-to-end legal application with AI assistance",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd public/web && npm start",
+    "mobile": "cd frontend-mobile && npx react-native run-android",
+    "install-all": "npm install && cd backend && npm install && cd ../public/web && npm install && cd ../../frontend-mobile && npm install",
+    "backend-install": "cd backend && npm install",
+    "frontend-install": "cd public/web && npm install"
+  },
+  "keywords": [
+    "legal",
+    "ai",
+    "gpt",
+    "indonesia"
+  ],
+  "author": "AI Legal Mate Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

@@ -1,0 +1,621 @@
+/* Additional component styles for the frontend */
+
+/* Case Management Styles */
+.case-management-page .page-actions {
+  margin-bottom: 30px;
+  text-align: right;
+}
+
+.case-management-page .form-container {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 30px;
+  margin-bottom: 30px;
+  box-shadow: var(--shadow);
+}
+
+.case-management-page .form-card h3 {
+  margin-bottom: 20px;
+  color: var(--heading-color);
+}
+
+.case-management-page .form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.case-management-page .form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.case-management-page .form-group input,
+.case-management-page .form-group select,
+.case-management-page .form-group textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius);
+  font-size: 16px;
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  transition: border-color 0.3s ease;
+}
+
+.case-management-page .form-group input:focus,
+.case-management-page .form-group select:focus,
+.case-management-page .form-group textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+}
+
+.case-management-page .form-actions {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.case-management-page .cases-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 25px;
+}
+
+.case-management-page .case-card {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 25px;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.case-management-page .case-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-xl);
+}
+
+.case-management-page .case-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.case-management-page .case-header h3 {
+  margin: 0;
+  color: var(--heading-color);
+  flex: 1;
+}
+
+.case-management-page .case-badges {
+  display: flex;
+  gap: 10px;
+}
+
+.case-management-page .badge {
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.badge-success {
+  background-color: var(--success-color-light);
+  color: var(--success-color);
+}
+
+.badge-warning {
+  background-color: var(--warning-color-light);
+  color: var(--warning-color);
+}
+
+.badge-danger {
+  background-color: var(--danger-color-light);
+  color: var(--danger-color);
+}
+
+.badge-primary {
+  background-color: var(--primary-color-light);
+  color: var(--primary-color);
+}
+
+.badge-secondary {
+  background-color: var(--text-color-secondary + '40');
+  color: var(--text-color-secondary);
+}
+
+.case-management-page .case-body {
+  margin-bottom: 20px;
+}
+
+.case-management-page .case-description {
+  color: var(--text-color-secondary);
+  margin-bottom: 15px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.case-management-page .case-meta {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.case-management-page .meta-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.9rem;
+  color: var(--text-color-secondary);
+}
+
+.case-management-page .case-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+/* Legal Education Styles */
+.legal-education-page .filters {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: var(--border-radius-lg);
+  margin-bottom: 30px;
+  box-shadow: var(--shadow);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.legal-education-page .filter-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.legal-education-page .filter-group label {
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.legal-education-page .filter-group select {
+  padding: 10px 15px;
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius);
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+.legal-education-page .modules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.legal-education-page .module-card {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+.legal-education-page .module-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-xl);
+}
+
+.legal-education-page .module-image {
+  position: relative;
+  height: 160px;
+  background: var(--primary-color-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.legal-education-page .placeholder-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--primary-color);
+}
+
+.legal-education-page .play-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.7);
+  border: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.legal-education-page .play-btn:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.legal-education-page .completed-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--success-color);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.legal-education-page .module-content {
+  padding: 20px;
+}
+
+.legal-education-page .module-content h3 {
+  margin: 0 0 10px 0;
+  color: var(--heading-color);
+}
+
+.legal-education-page .module-content p {
+  color: var(--text-color-secondary);
+  margin-bottom: 15px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.legal-education-page .module-meta {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.legal-education-page .module-actions {
+  text-align: right;
+}
+
+.legal-education-page .education-features {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.legal-education-page .feature-section {
+  background: var(--card-bg);
+  padding: 25px;
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.legal-education-page .feature-section h3 {
+  color: var(--heading-color);
+  margin-bottom: 15px;
+}
+
+/* Contract Analyzer Styles */
+.contract-analyzer-page .analyzer-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.contract-analyzer-page .input-section {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 30px;
+  box-shadow: var(--shadow);
+}
+
+.contract-analyzer-page .upload-area {
+  text-align: center;
+  border: 2px dashed var(--border-color);
+  border-radius: var(--border-radius-lg);
+  padding: 40px 20px;
+  margin-bottom: 30px;
+  transition: border-color 0.3s ease;
+}
+
+.contract-analyzer-page .upload-area:hover {
+  border-color: var(--primary-color);
+}
+
+.contract-analyzer-page .upload-icon {
+  margin-bottom: 15px;
+}
+
+.contract-analyzer-page .upload-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: var(--primary-color);
+  color: white;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background 0.3s ease;
+}
+
+.contract-analyzer-page .upload-btn:hover {
+  background: var(--primary-color-dark);
+}
+
+.contract-analyzer-page .file-name {
+  margin-top: 10px;
+  color: var(--text-color-secondary);
+  font-size: 0.9rem;
+}
+
+.contract-analyzer-page .text-input {
+  margin-bottom: 20px;
+}
+
+.contract-analyzer-page .text-input label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.contract-analyzer-page .text-input textarea {
+  width: 100%;
+  padding: 15px;
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius);
+  font-size: 16px;
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  font-family: inherit;
+  resize: vertical;
+}
+
+.contract-analyzer-page .actions {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.contract-analyzer-page .analysis-section {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 30px;
+  box-shadow: var(--shadow);
+}
+
+.contract-analyzer-page .analysis-header {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.contract-analyzer-page .analysis-header h2 {
+  color: var(--heading-color);
+  margin: 0;
+}
+
+.contract-analyzer-page .analysis-content {
+  margin-bottom: 20px;
+}
+
+.contract-analyzer-page .analysis-text {
+  background: var(--background-color);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  max-height: 400px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.contract-analyzer-page .error-message {
+  background: var(--danger-color-light);
+  color: var(--danger-color);
+  padding: 15px;
+  border-radius: var(--border-radius);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contract-analyzer-page .analysis-actions {
+  text-align: right;
+}
+
+.contract-analyzer-page .help-section {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 30px;
+  box-shadow: var(--shadow);
+  grid-column: 1 / -1;
+}
+
+.contract-analyzer-page .help-section h3,
+.contract-analyzer-page .help-section h4 {
+  color: var(--heading-color);
+  margin-bottom: 15px;
+}
+
+.contract-analyzer-page .help-section ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.contract-analyzer-page .help-section li {
+  margin-bottom: 8px;
+  color: var(--text-color-secondary);
+}
+
+/* Profile Styles */
+.profile-page .profile-container {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 30px;
+}
+
+.profile-page .profile-sidebar {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 25px;
+  box-shadow: var(--shadow);
+  align-self: flex-start;
+  position: sticky;
+  top: 100px;
+}
+
+.profile-page .profile-card {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.profile-page .profile-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: var(--primary-color-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 15px;
+  color: var(--primary-color);
+}
+
+.profile-page .profile-card h2 {
+  margin: 0 0 5px 0;
+  color: var(--heading-color);
+}
+
+.profile-page .user-role {
+  color: var(--primary-color);
+  font-weight: 500;
+  margin: 0 0 5px 0;
+}
+
+.profile-page .user-email {
+  color: var(--text-color-secondary);
+  margin: 0;
+}
+
+.profile-page .sidebar-menu {
+  border-top: 1px solid var(--border-color);
+  padding-top: 20px;
+}
+
+.profile-page .menu-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 15px;
+  text-decoration: none;
+  color: var(--text-color);
+  border-radius: var(--border-radius);
+  margin-bottom: 5px;
+  transition: all 0.3s ease;
+}
+
+.profile-page .menu-item:hover,
+.profile-page .menu-item.active {
+  background: var(--primary-color-light);
+  color: var(--primary-color);
+}
+
+.profile-page .profile-content {
+  background: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  padding: 30px;
+  box-shadow: var(--shadow);
+}
+
+.profile-page .content-section {
+  margin-bottom: 40px;
+}
+
+.profile-page .content-section h2 {
+  color: var(--heading-color);
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.profile-page .profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.profile-page .info-item {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
+}
+
+.profile-page .info-icon {
+  color: var(--primary-color);
+  font-size: 1.2rem;
+  margin-top: 3px;
+}
+
+.profile-page .info-item h3 {
+  margin: 0 0 5px 0;
+  color: var(--text-color-secondary);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.profile-page .info-item p {
+  margin: 0;
+  color: var(--heading-color);
+  font-size: 1.1rem;
+}
+
+.profile-page .help-text {
+  font-size: 0.8rem;
+  color: var(--text-color-secondary);
+  margin-top: 5px;
+}
+
+.profile-page .form-actions {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .case-management-page .form-row {
+    grid-template-columns: 1fr;
+  }
+  
+  .case-management-page .cases-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .legal-education-page .analyzer-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .profile-page .profile-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .profile-page .profile-sidebar {
+    position: static;
+  }
+}

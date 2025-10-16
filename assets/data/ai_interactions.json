@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ai-1",
+    "user_id": "user-1",
+    "question": "What are the requirements for a valid lease agreement in Indonesia?",
+    "response": "In Indonesia, a valid lease agreement must contain several key elements: 1) Agreement between parties (landlord and tenant), 2) Description of the property being leased, 3) Term of the lease, 4) Rent amount and payment terms, 5) Signatures of both parties. It's also recommended to register the lease with local authorities if it's for more than 5 years.",
+    "model_used": "gpt-4-turbo-preview",
+    "tokens_used": 142,
+    "created_at": "2023-09-11T10:15:00Z"
+  },
+  {
+    "id": "ai-2",
+    "user_id": "user-2",
+    "question": "Can an employment contract in Indonesia include a non-compete clause?",
+    "response": "Yes, non-compete clauses can be included in Indonesian employment contracts. However, they must be reasonable in scope, duration, and geographic area. Indonesian labor law allows such clauses if they protect legitimate business interests, but courts will review them for fairness. The clause should specify a reasonable time period (typically 6-12 months after termination) and the restricted activities.",
+    "model_used": "gpt-4-turbo-preview",
+    "tokens_used": 156,
+    "created_at": "2023-09-21T14:30:00Z"
+  },
+  {
+    "id": "ai-3",
+    "user_id": "user-1",
+    "question": "What are the grounds for divorce under Indonesian law?",
+    "response": "Under Indonesian law, divorce can be granted on several grounds: 1) Irreconcilable differences between spouses, 2) Adultery, 3) Abuse or abandonment, 4) Mental illness that prevents fulfillment of marital duties, 5) Criminal conviction of one spouse with a sentence of 5+ years. Divorce proceedings must go through the Religious Court for Muslims and the District Court for non-Muslims.",
+    "model_used": "gpt-4-turbo-preview",
+    "tokens_used": 138,
+    "created_at": "2023-08-18T11:45:00Z"
+  },
+  {
+    "id": "ai-4",
+    "user_id": "user-6",
+    "question": "How do I register a limited liability company (PT) in Indonesia?",
+    "response": "To register a PT (Perseroan Terbatas) in Indonesia: 1) Obtain name approval from the Ministry of Law and Human Rights, 2) Prepare Articles of Association, 3) Obtain a domicile letter, 4) Prepare required documents (ID, NPWP, etc.), 5) Submit application to Online Single Submission (OSS) system, 6) Pay the required fees, 7) Receive the Deed of Establishment, 8) Register for NPWP, 9) Register with BPJS Ketenagakerjaan and BPJS Kesehatan. The minimum capital is IDR 50 million.",
+    "model_used": "gpt-4-turbo-preview",
+    "tokens_used": 178,
+    "created_at": "2023-10-06T09:20:00Z"
+  },
+  {
+    "id": "ai-5",
+    "user_id": "user-7",
+    "question": "What is the process for trademark registration in Indonesia?",
+    "response": "Trademark registration in Indonesia: 1) Conduct a trademark search to ensure availability, 2) Prepare required documents (TM application form, power of attorney, list of goods/services), 3) File application with Directorate General of Intellectual Property, 4) Formal examination (2-3 months), 5) Substantive examination (6-12 months), 6) Publication if accepted, 7) Registration certificate if no opposition. The process takes 12-18 months. Registration is valid for 10 years and can be renewed indefinitely.",
+    "model_used": "gpt-4-turbo-preview",
+    "tokens_used": 165,
+    "created_at": "2023-09-25T13:20:00Z"
+  }
+]
